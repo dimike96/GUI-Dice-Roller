@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # This is going to be a dice rolling program
 # Ideally this is primarily a way to somewhat better understand making GUI's with python with a simple program
 
